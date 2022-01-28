@@ -5,3 +5,8 @@ The content covers multi-disciplinary areas of electrical, electronic and comput
 
 **LabView** (https://en.wikipedia.org/wiki/LabVIEW) <br/> 
 **Video Guidance** (https://www.youtube.com/channel/UCQj6oT-QNhO19XOBHKuEPaw)
+
+## Video Demonstration 
+https://user-images.githubusercontent.com/77121875/151509791-7627848c-7b39-4932-b7f7-a7d7ef845ec5.mp4
+
+
